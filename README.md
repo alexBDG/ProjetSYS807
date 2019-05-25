@@ -3,3 +3,9 @@ ETS - Advanced fluid mecanics
 
 
 Euler equations in 1D
+
+
+
+
+
+Eigen library required !
